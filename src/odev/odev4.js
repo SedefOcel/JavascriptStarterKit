@@ -15,7 +15,7 @@
             index++;}
     
 } 
-console.log("Ödev 2 ")
+console.log("Ödev 4 ")
   console.log("1000 e kadar Asal Sayılar (",...newlist,")"); 
   
   console.log("--------------- ")
